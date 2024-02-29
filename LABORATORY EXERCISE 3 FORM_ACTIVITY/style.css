@@ -37,9 +37,9 @@ input[type="reset"] {
 }
 
 input[type="text"], input[type="email"], input[type="password"], input[type="date"] {
-    width: 270px;
+    width: 340px;
 }
 
 input[type="date"] {
-    width: 273px;
+    width: 343px;
 }
